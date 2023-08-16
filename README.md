@@ -4,7 +4,7 @@
 
 ## Compatible Versions
 
-The parser complies with [OpenAPI Specification Version 3.1.0](https://www.notion.so/reference-material/OpenAPI-Specification-Version-3-1-0-8658986fa27c4995aedc41ac45faf65b)
+The client generator complies with [OpenAPI Specification Version 3.1.0](https://www.notion.so/reference-material/OpenAPI-Specification-Version-3-1-0-8658986fa27c4995aedc41ac45faf65b)
 
 * 3.0.x : Should be fine, potentially a very small migration may be needed, see: [Migrating from OpenAPI 3.0 to 3.1.0 - OpenAPI Initiative](https://www.openapis.org/blog/2021/02/16/migrating-from-openapi-3-0-to-3-1-0)
 * 2.y.z : unfortunately below 3.0.0 will not work, you could try:
