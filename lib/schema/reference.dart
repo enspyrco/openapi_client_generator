@@ -1,4 +1,4 @@
-import 'package:openapi_parser/utils/annotations.dart';
+import 'package:openapi_client_generator/utils/annotations.dart';
 
 // Spec page in Notion: https://www.notion.so/reference-material/Reference-Object-729cb68fba6a484cb07df2af2e8d4018
 

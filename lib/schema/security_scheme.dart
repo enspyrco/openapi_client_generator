@@ -1,4 +1,4 @@
-import 'package:openapi_parser/utils/annotations.dart';
+import 'package:openapi_client_generator/utils/annotations.dart';
 
 import 'o_auth_flows.dart';
 

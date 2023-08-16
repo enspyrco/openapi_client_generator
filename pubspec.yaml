@@ -1,10 +1,10 @@
-name: openapi_parser
-description: A sample command-line application.
-version: 1.0.0
+name: openapi_client_generator
+description: Parses an OpenAPI description to generate a Dart client for the described API.
+version: 0.0.0-a1
 # homepage: https://www.example.com
 
 environment:
-  sdk: '>=2.18.6 <3.0.0'
+  sdk: ^3.0.0
 
 # dependencies:
 #   path: ^1.8.0

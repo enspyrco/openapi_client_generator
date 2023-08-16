@@ -1,4 +1,4 @@
-# openapi_parser
+# openapi_client_generator
 
 *Parses an OpenAPI description to generate a Dart client for the described API.*
 

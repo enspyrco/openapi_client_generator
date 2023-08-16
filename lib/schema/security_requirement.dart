@@ -1,4 +1,4 @@
-import 'package:openapi_parser/utils/annotations.dart';
+import 'package:openapi_client_generator/utils/annotations.dart';
 
 // Spec page in Notion: https://www.notion.so/reference-material/Security-Requirement-Object-fccaa20b276345f3a8bf9da005d759c7
 
